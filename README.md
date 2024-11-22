@@ -26,34 +26,34 @@ Sales Channels: Some sales channels drove higher conversion rates, which can inf
 
 
 
-Tools and Technologies
+-Tools and Technologies
 Excel: For data preprocessing and exploration.
 Excel: For data querying and transformation (scripts provided in the repository).
 Excel: To visualize trends, customer insights, and geographic performance.
 
 
-Visualizations:
+-Visualizations:
 Monthly Sales Trends
 Customer Contribution to Sales
 Regional Performance Breakdown
 Sales by Channel
 
 
-Getting Started
-Prerequisites:
+-Getting Started
+-Prerequisites:
 Use Excel for manual data exploration.
 
-Instructions
+-Instructions
 Clone this repository:
 
-Copy code
+-Copy code
 git clone https://github.com/yourusername/sales-data-analysis.git
 
 
-Open the Analysis Excel file for a detailed data overview.
+-Open the Analysis Excel file for a detailed data overview.
 
-Results
+-Results
 The analysis report and dashboards provide actionable insights for improving sales strategies, optimizing customer relationships, and enhancing regional performance.
 
-Author
+-Author
 Sibusiso
